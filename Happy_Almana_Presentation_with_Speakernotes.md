@@ -32,7 +32,7 @@
 * We took the data used for the World Happiness Report  
 Which comes out once a year   
 * The time period of data is 18 YEARS, 2005 to 2022
-* Overall, 165 countries have participated but not every year (195 RECOGNIZED COUNTRIES, ROUGHLY 84% OF TAKE PART)
+* Overall, 165 countries have participated but not every year, from 195 recognized countries worldwide, roughly 84% of take part
 
 ---  
 
@@ -41,12 +41,13 @@ Which comes out once a year
 ***SLIDE 4 - Aiming & Framing the World Happiness***
 
 * Happiness matters to everyone:
-+ On the individual level, we all seek to find happiness.
-+ On a national level, happiness is also of interest. 
-+ Policy makers of the differing governments want happy productive citizens.  
-* It ensures the well-being of the nation
+    + On the individual level, we all seek to find happiness.
+    + On a national level, happiness is also of interest. 
+    + Policy makers of the differing governments want happy productive citizens.  
+    * It ensures the well-being of the nation
 * Naturally questions arose about happiness
-* Where are folks the happiest, in which countries?  Then further: what factors have an influence on happiness levels?
+    * Where are folks the happiest, in which countries?
+    * Then further: what factors have an influence on happiness levels?
 * Hence we aimed to set out to Create a Predictive Model for the Happiness Index
 
 ---
