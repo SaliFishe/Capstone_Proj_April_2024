@@ -8,7 +8,8 @@
 In this capstone project, we focused on the [World Happiness Report](https://worldhappiness.report/data/) with its associated data. We also added some related data from Numbeo, Kaggle and the United Nations and then analyze the data, highlight trends and relationships between the Happiness Index and other features. 
 Additionally, we sought to create a predictive model for the Happiness Index, starting initially with a baseline model of just one feature and then methodically adding and removing features, testing the results to optimize the model.
 
-You will find 2 pdf files in this repository. One file contains the final presentation and the other file contains a combination of presentation slides and speaker notes. 
+You will find in this repository the file *Happy_Almana_Capstone_Presentation.pdf* with the final presentation  
+and the *Happy_Almana_Presentation_with_Speakernotes.md*  which contains each slide as a image with the speaker notes under the image. 
 
 
 
